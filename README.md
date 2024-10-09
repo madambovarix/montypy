@@ -89,7 +89,7 @@ Ce chatbot est destiné au divertissement. Il peut parfois produire des réponse
 
 - Les Monty Python pour leur humour inégalé
 - La communauté Hugging Face pour les outils transformers
-- Le ministère des marches stupides
+- Le ministère des démarches stupides
 
 ## 📬 Contact
 
