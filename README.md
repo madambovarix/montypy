@@ -20,7 +20,7 @@ scrapés avec scrapy sur https://www.ibras.dk/montypython/justthewords.htm
 - Python 3.8 ou supérieur
 - pip (gestionnaire de paquets Python)
 - 500 MB d'espace disque libre pour le modèle
-- Un ministère des marches stupides
+- Un ministère des démarches stupides
 
 ## 🛠️ Installation
 
