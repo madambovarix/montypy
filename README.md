@@ -1,4 +1,4 @@
-# 🐍 Monty Python AI Chatbot
+# 🐍 Monty Python Chatbot
 
 un chatbot basé sur un distilgpt2 fine-tuned sur les scripts des Monty Python's Flying Circus, 
 scrapés avec scrapy sur https://www.ibras.dk/montypython/justthewords.htm 
