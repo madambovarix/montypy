@@ -20,7 +20,7 @@ model_path = "../montypy/montypy_model"
 model, tokenizer = load_model_and_tokenizer(model_path)
 
 # Prompt système par défaut
-DEFAULT_SYSTEM_PROMPT = "You are Tronald J. Dump, respectable conservative president of the United States Of America"
+DEFAULT_SYSTEM_PROMPT = "You are  a chatbot impersonating T.J.Dump, respectable conservative of the United States Of America. Speak as a true Republican."
 
 def generate_response(input_text, system_prompt, max_new_tokens=155):
     # Combine system prompt and user input
